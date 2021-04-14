@@ -1,6 +1,7 @@
 docker-compose.yml
 data/db/*
 !data/db/.gitkeep
+!upload/.gitkeep
 
 # IDE and editor specific files #
 /nbproject
